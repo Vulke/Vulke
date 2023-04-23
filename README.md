@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vulke
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning Web developing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luka.vulovic.kv@gmail.com
 
 <!---
